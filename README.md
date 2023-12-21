@@ -13,4 +13,6 @@ Esse repositorio tem como base uma aula realizada on line no canal do Italo Dieg
 Todos os dados usados no estudos são de conteudos ficticios. 
 As aulas são de grandes ajuda para o melhoramento da estruturação de análises de dados de forma geral.
 
-https://app.powerbi.com/view?r=eyJrIjoiNzJhNmFjODMtZTUzMC00MTE1LThmMDEtZmRkZTIyZGUxM2Q1IiwidCI6IjQxZGUzZDY2LWFiNGYtNDYyNi05MjE3LThlYTc1OWVlYTk3ZiJ9&pageName=ReportSection
+<iframe title="feitoPorMim" width="600" height="373.5" 
+src="https://app.powerbi.com/view?r=eyJrIjoiNzJhNmFjODMtZTUzMC00MTE1LThmMDEtZmRkZTIyZGUxM2Q1IiwidCI6IjQxZGUzZDY2LWFiNGYtNDYyNi05MjE3LThlYTc1OWVlYTk3ZiJ9" frameborder="0" allowFullScreen="true">
+</iframe>
